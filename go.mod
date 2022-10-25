@@ -3,8 +3,8 @@ module github.com/julieqiu/sscidemo
 go 1.19
 
 require (
-	github.com/tidwall/gjson v1.14.3
-	golang.org/x/text v0.4.0
+	github.com/tidwall/gjson v1.9.2
+	golang.org/x/text v0.3.5
 )
 
 require (
